@@ -329,11 +329,10 @@
             #onetrust-consent-sdk #onetrust-pc-btn-handler,
             #onetrust-consent-sdk #onetrust-pc-btn-handler.cookie-setting-link {
             color: #0052CC; border-color: #0052CC;
-            background-color:
-            #FFFFFF;
-            }{
+            background-color: #FFFFFF;
             font-family: LLCircularWeb,"Helvetica Neue",Helvetica,sans-serif;
             }
+            
             #onetrust-banner-sdk {
             margin: 4px;
             border-radius: 4px;
@@ -515,4 +514,3 @@
             }
             .ot-floating-button__front{background-image:url('https://cdn.cookielaw.org/logos/static/ot_persistent_cookie_icon.png')}
 
-            
