@@ -514,3 +514,8 @@
             }
             .ot-floating-button__front{background-image:url('./ot_persistent_cookie_icon.png')}
 
+            @media only screen and (max-width: 767px) {
+                body p {
+                  top: -10px !important;
+                }
+              }
