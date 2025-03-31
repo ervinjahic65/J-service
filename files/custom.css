@@ -3,9 +3,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 100;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/6EnDcOBYnO67MYVJcpQLUc/85d36587de9855f3cd9f4e23f2119cf8/Charlie_Display-Thin.woff2)
+    src: url(./Charlie_Display-Thin.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/5Bpl6vErvLYCi1EdOqI2IK/b57fbec62ffab536b59e311837de9042/Charlie_Display-Thin.woff)
+    url(./Charlie_Display-Thin.woff)
     format("woff");
     }
     @font-face {
@@ -13,9 +13,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 100;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/67WF3xGxF81QiZRksym42A/cf7c507569cbbee461ff241902706970/Charlie_Display-Thin_Italic.woff2)
+    src: url(./Charlie_Display-Thin_Italic.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/PanXvQtfIyAqIFbGpM8IM/b9b87b3c6ffee63861eb501a0cb160d1/Charlie_Display-Thin_Italic.woff)
+    url(./Charlie_Display-Thin_Italic.woff)
     format("woff");
     }
     @font-face {
@@ -23,9 +23,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 200;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/8JLDocv5sujCQIY4WEZsz/ebe26b857bf93efe919a72c3697afa82/Charlie_Display-Light.woff2)
+    src: url(./Charlie_Display-Light.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/1rikelY7zYfVVcGF0ufCMx/5525e29555ebb0b403de182f334e7f2b/Charlie_Display-Light.woff)
+    url(./Charlie_Display-Light.woff)
     format("woff");
     }
     @font-face {
@@ -33,9 +33,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 200;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/8JLDocv5sujCQIY4WEZsz/ebe26b857bf93efe919a72c3697afa82/Charlie_Display-Light.woff2)
+    src: url(./Charlie_Display-Light.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/1rikelY7zYfVVcGF0ufCMx/5525e29555ebb0b403de182f334e7f2b/Charlie_Display-Light.woff)
+    url(./Charlie_Display-Light.woff)
     format("woff");
     }
     @font-face {
@@ -43,9 +43,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 400;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/6nq3flI8NfgICrz3jZjLyD/81918253d594b7bb77eb898a468d4328/Charlie_Display-Regular.woff2)
+    src: url(./Charlie_Display-Regular.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/2GTE85R9nfLI58KxINGukf/9d35203b2fe1d4a89031954f118b6c9f/Charlie_Display-Regular.woff)
+    url(./Charlie_Display-Regular.woff)
     format("woff");
     }
     @font-face {
@@ -53,9 +53,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 400;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/6zBd9BZlMVg6Lzzo0c9JTB/d9954046ee355a5fdbf2c5212675e67e/Charlie_Display-Italic.woff2)
+    src: url(./Charlie_Display-Italic.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/68hDvJoBF5iblYktO69b1g/7fd2a9f3582c8fc11d9d27fcfed38dd8/Charlie_Display-Italic.woff)
+    url(./Charlie_Display-Italic.woff)
     format("woff");
     }
     @font-face {
@@ -63,9 +63,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 500;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/3KRSiun937K2pXBPYiUwgB/17f578e7699c12924de360e09c018c7c/Charlie_Display-Semibold.woff2)
+    src: url(./Charlie_Display-Semibold.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/oQSiwcfMwyNafeeJ3DIku/364b1a7409856a36ab05c2b43a1f9bde/Charlie_Display-Semibold.woff)
+    url(./Charlie_Display-Semibold.woff)
     format("woff");
     }
     @font-face {
@@ -73,9 +73,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 500;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/65xdTmUlQXTZEebPv41QKG/d21f19bb0e731f88caa3be64700a49f0/Charlie_Display-Semibold_Italic.woff2)
+    src: url(./Charlie_Display-Semibold_Italic.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/T73q5xRByE5hy55AGMp54/67810084a3efdb1999b56f6542c85d01/Charlie_Display-Semibold_Italic.woff)
+    url(./Charlie_Display-Semibold_Italic.woff)
     format("woff");
     }
     @font-face {
@@ -83,9 +83,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 700;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/55uCHq9XzIzIG8yO7WRqfM/b62779fff17f06743e490f6d98a2001a/Charlie_Display-Bold.woff2)
+    src: url(./Charlie_Display-Bold.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/7lMBcxnaE1rq1n9am4LaWV/b17259435611992f2a6ffe48ca213f84/Charlie_Display-Bold.woff)
+    url(./Charlie_Display-Bold.woff)
     format("woff");
     }
     @font-face {
@@ -93,9 +93,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 700;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/2o3Zm0no6lPnln5cHb7JR6/55f0b66048535d78193f516062ff58e4/Charlie_Display-Bold_Italic.woff2)
+    src: url(./Charlie_Display-Bold_Italic.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/2hEATjlHYKgFNGG3XEE8FL/e5e32f1fdd86414237477cc7130acf13/Charlie_Display-Bold_Italic.woff)
+    url(./Charlie_Display-Bold_Italic.woff)
     format("woff");
     }
     @font-face {
@@ -103,9 +103,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 800;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/2QtjA2B9aCIa8HvyZcNWqL/886e02c2b15732bc62dc9550078d991c/Charlie_Display-Black.woff2)
+    src: url(./Charlie_Display-Black.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/7mOCTVLMRdYynIubPDry0Y/85324db781253d544cf91d5c9078a820/Charlie_Display-Black.woff)
+    url(./Charlie_Display-Black.woff)
     format("woff");
     }
     @font-face {
@@ -113,9 +113,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 800;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/42ZnX9r0FEEC9i6aTjhGvx/9928d2d161b763db60a50c3edf0bfe78/Charlie_Display-Black_Italic.woff2)
+    src: url(./Charlie_Display-Black_Italic.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/7J5fycblWMmgmMrC850GL9/610d735e3d4680bb111cfb40507beab7/Charlie_Display-Black_Italic.woff)
+    url(./Charlie_Display-Black_Italic.woff)
     format("woff");
     }
     @font-face {
@@ -123,9 +123,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 900;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/2aGTtufjwlwNeuEifuVsDA/933ed19de4d808d8c9618a0a96f282f0/Charlie_Display-Ultra.woff2)
+    src: url(./Charlie_Display-Ultra.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/61USbw5Es8ifbW4QjjYATl/19979d7f1ff46dfe7c7b79e15aacc4bc/Charlie_Display-Ultra.woff)
+    url(./Charlie_Display-Ultra.woff)
     format("woff");
     }
     @font-face {
@@ -133,9 +133,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 100;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/1vzZOZUcRsW8G3dlrVRc9E/6b8b429a3a35eeda98227874727af9ef/Charlie_Text-Thin.woff2)
+    src: url(./Charlie_Text-Thin.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/csqcs1t6l1ByKLqji08Sd/7354daf990b1232c01f11b79c86b8b73/Charlie_Text-Thin.woff)
+    url(./Charlie_Text-Thin.woff)
     format("woff");
     }
     @font-face {
@@ -143,9 +143,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 100;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/7JQoYrWJG8qtt0hqnGgei9/6d94ac079ded70cdced3b8b448890c3e/Charlie_Text-Thin_Italic.woff2)
+    src: url(./Charlie_Text-Thin_Italic.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/XA1kYory8Dhr5QrsKMlYY/df361dee9663b39de9eb21a1279b9399/Charlie_Text-Thin_Italic.woff)
+    url(./Charlie_Text-Thin_Italic.woff)
     format("woff");
     }
     @font-face {
@@ -153,9 +153,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 200;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/1rfmGoSYAfdBOsdsg9qKLL/9ea188cbd87592d6ab6012f191958252/Charlie_Text-Light.woff2)
+    src: url(./Charlie_Text-Light.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/1XWcCzbf5viNQnIbOqfeI4/8ccdfc8336f9ecb15e2f849c3fc51340/Charlie_Text-Light.woff)
+    url(./Charlie_Text-Light.woff)
     format("woff");
     }
     @font-face {
@@ -163,9 +163,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 200;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/6S05s3tlC46wX9fKFizj1K/2cfa443b8c44adce54d1159035e38b23/Charlie_Text-Light_Italic.woff2)
+    src: url(./Charlie_Text-Light_Italic.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/3kW42zdybmQkfndtF54bd1/910ddde712b570829f385b62476b2ea9/Charlie_Text-Light_Italic.woff)
+    url(./Charlie_Text-Light_Italic.woff)
     format("woff");
     }
     @font-face {
@@ -173,9 +173,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 400;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/41EruTPEOU9hcBwH94UVuZ/73ac40404d750278b451bf2adf186b1b/Charlie_Text-Regular.woff2)
+    src: url(./Charlie_Text-Regular.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/6h4LgfzSDGYFyOvrNTr21p/99d04355f5ef0b92b882013bb0857cf9/Charlie_Text-Regular.woff)
+    url(./Charlie_Text-Regular.woff)
     format("woff");
     }
     @font-face {
@@ -183,9 +183,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 500;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/2d4nxzJwX8hfIqUN71D4OD/5e2c0c2a3677d935e91dd46635d5149d/Charlie_Text-Semibold.woff2)
+    src: url(./Charlie_Text-Semibold.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/4Y73c86mEJg3PJBgQe0L8t/a5d27d39320e9703ed48dd3bdb308408/Charlie_Text-Semibold.woff)
+    url(./Charlie_Text-Semibold.woff)
     format("woff");
     }
     @font-face {
@@ -193,9 +193,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 500;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/6oQuHbLiijMuGvWxuUyHsz/62fe2908bcad6b7e9fef8ca4db7f0f53/Charlie_Text-Semibold_Italic.woff2)
+    src: url(./Charlie_Text-Semibold_Italic.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/3pI1pIJKtGUJG42qu4eZSU/56114eff490f7cc794552a7c9b4c8c8b/Charlie_Text-Semibold_Italic.woff)
+    url(./Charlie_Text-Semibold_Italic.woff)
     format("woff");
     }
     @font-face {
@@ -203,9 +203,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 700;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/6fvn66mVrRz4Yw3gQoPaJJ/458e6a69f0036d1e566e028fcbc26a50/Charlie_Text-Bold.woff2)
+    src: url(./Charlie_Text-Bold.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/3JvzHM3Atfe3nL2nvb4AqL/5bb9a76be7a4b053dbb276d9ffc6654a/Charlie_Text-Bold.woff)
+    url(./Charlie_Text-Bold.woff)
     format("woff");
     }
     @font-face {
@@ -213,9 +213,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 700;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/3nA8vWk7MPMalamC0inRjz/11825f8df63da9f9b792cb5478e32bd5/Charlie_Text-Bold_Italic.woff2)
+    src: url(./Charlie_Text-Bold_Italic.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/5Ba4myVpyls8UQB3g5MPQj/86da6172a058cc143a707f21f5e5d058/Charlie_Text-Bold_Italic.woff)
+    url(./Charlie_Text-Bold_Italic.woff)
     format("woff");
     }
     @font-face {
@@ -223,9 +223,9 @@
     font-style: normal;
     font-display: swap;
     font-weight: 800;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/2AZXOOAKgaXV55fqGI098Y/bb085d34b97c542aedea66d5e4d9bc95/Charlie_Text-Black.woff2)
+    src: url(./Charlie_Text-Black.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/3czBeZah9GZg8dI5cMd2er/7a13c24355717ba63712c3550921339f/Charlie_Text-Black.woff)
+    url(./Charlie_Text-Black.woff)
     format("woff");
     }
     @font-face {
@@ -233,9 +233,9 @@
     font-style: italic;
     font-display: swap;
     font-weight: 800;
-    src: url(//assets.ctfassets.net/rz1oowkt5gyp/59WTxSNNVWGolxmuwpW2j4/87fd7ad49eedaf1949839a7395399b6a/Charlie_Text-Black_Italic.woff2)
+    src: url(./Charlie_Text-Black_Italic.woff2)
     format("woff2"),
-    url(//assets.ctfassets.net/rz1oowkt5gyp/1UikYvlUIsLZk1JeznIrD8/87bd38612d2caae1f6ebd621027cbc4e/Charlie_Text-Black_Italic.woff)
+    url(./Charlie_Text-Black_Italic.woff)
     format("woff");
     }
     :root {
